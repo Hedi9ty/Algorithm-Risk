@@ -1,4 +1,4 @@
-# Algorithm Risk-
+# Algorithm Risk
 
 This is a repository about Algorithm Risk.
 Basically I divived the this topic into two main category:
